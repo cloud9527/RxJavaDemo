@@ -17,7 +17,7 @@
 
         <TextView
             android:id="@+id/edit1"
-            android:layout_width="match_parent"
+            android:layout_width="match_parent"09
             android:layout_height="wrap_content"
             android:text="" />
 
